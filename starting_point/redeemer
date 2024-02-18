@@ -1,0 +1,12 @@
+T1 - 6379
+T2 - redis
+T3 - in-memory Database
+T4 - redis-cli
+T5 - -h
+T6 - info
+T7 - 5.0.7
+T8 - select
+T9 - 4
+T10 - keys *
+
+Flag - 03e1d2b376c37ab3f5319922053953eb
