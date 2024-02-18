@@ -1,0 +1,13 @@
+T1 - File Transfer Protocol
+T2 - 21
+T3 - SFTP
+T4 - ping
+T5 - vsftpd 3.0.3
+T6 - Unix
+T7 - ftp -h
+T8 - anonymous
+T9 - 230
+T10 - ls
+T11 - get
+
+Flag - 035db21c881520061c53e0536e44f815
