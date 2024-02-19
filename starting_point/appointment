@@ -1,0 +1,12 @@
+T1 - Structured Query Language
+T2 - SQL Injection
+T3 - A03:2021-Injection
+T4 - Apache httpd 2.4.38 ((debian))
+T5 - 443
+T6 - Directory
+T7 - 404
+T8 - dir
+T9 - #
+T10 - Congratulations
+
+Flag - e3d0796d002a446c0e622226f42e9672
