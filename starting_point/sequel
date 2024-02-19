@@ -1,0 +1,9 @@
+T1 - 3306
+T2 - MariaDB
+T3 - -u
+T4 - root
+T5 - *
+T6 - ;
+T7 - htb
+
+Flag - 7b4bec00d1a39e3dd4e021ec3d915da8
