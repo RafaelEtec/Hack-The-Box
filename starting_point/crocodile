@@ -4,8 +4,8 @@ T3 - 230
 T4 - anonymous
 T5 - get
 T6 - admin
-T7 - 
-T8 - 
-T9 - 
+T7 - Apache httpd 2.4.41
+T8 - -x
+T9 - login.php
 
-Flag - 
+Flag - c7110277ac44d78b6a9fff2232434d16
