@@ -1,11 +1,12 @@
 T1 - unika.htb
 T2 - php
-T3 - 
-T4 - 
-T5 - 
-T6 - 
-T7 - 
-T8 - 
-T9 - 
+T3 - page
+T4 - ../../../../../../../../windows/system32/drivers/etc/hosts
+T5 - //10.10.14.6/somefile
+T6 - New Technology Lan Manager
+T7 - -I
+T8 - John The Ripper
+T9 - badminton
+T10- 5985
 
-Flag - 
+Flag - ea81b7afddd03efaa0945333ed147fac
