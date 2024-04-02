@@ -1,0 +1,11 @@
+T1 - 2
+T2 - thetoppers.htb
+T3 - /etc/hosts
+T4 - s3.thetoppers.htb
+T5 - amazon s3
+T6 - awscli
+T7 - aws configure
+T8 - aws s3 ls
+T9 - php
+
+Flag - a980d99281a28d638ac68b9bf9453c2b

