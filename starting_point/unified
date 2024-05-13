@@ -4,12 +4,12 @@ T3 - 6.4.54
 T4 - CVE-2021-44228
 T5 - LDAP
 T6 - tcpdump
-T7 - 
-T8 - 
-T9 - 
-T10 -  
-T11 - 
-T12 - 
+T7 - 389
+T8 - 27117
+T9 - ace
+T10 - db.admin.find()
+T11 - db.admin.update()
+T12 - NotACrackablePassword4U2022
 
-User Flag - 
-Root Flag - 
+User Flag - 6ced1a6a89e666c0620cdb10262ba127
+Root Flag - e50bc93c75b634e4b272d2f771c33681
