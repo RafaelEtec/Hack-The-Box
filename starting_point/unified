@@ -1,9 +1,9 @@
 T1 - 22,6789,8080,8443
 T2 - UniFi Network
-T3 - 
-T4 - 
-T5 - 
-T6 - 
+T3 - 6.4.54
+T4 - CVE-2021-44228
+T5 - LDAP
+T6 - tcpdump
 T7 - 
 T8 - 
 T9 - 
